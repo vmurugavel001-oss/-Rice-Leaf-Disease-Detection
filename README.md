@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/ae372e60-7f68-450a-afa2-f4199b78e830" />
+
 # 🌾 Rice Leaf Disease Detection
 
 **Project Code:** PRCP-1001
