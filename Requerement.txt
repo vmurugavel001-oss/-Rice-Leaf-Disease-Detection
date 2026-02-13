@@ -1,0 +1,27 @@
+# Core Libraries
+numpy==1.26.4
+pandas==2.2.2
+
+# Data Visualization
+matplotlib==3.8.4
+seaborn==0.13.2
+
+# Image Processing
+opencv-python==4.9.0.80
+Pillow==10.3.0
+
+# Deep Learning
+tensorflow==2.16.1
+keras==3.3.3
+
+# Machine Learning Utilities
+scikit-learn==1.4.2
+scipy==1.13.0
+
+# Model Saving
+h5py==3.11.0
+joblib==1.4.2
+
+# Notebook Development (Optional)
+notebook==7.2.0
+ipykernel==6.29.4
